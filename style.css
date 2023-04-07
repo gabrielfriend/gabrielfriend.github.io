@@ -15,6 +15,10 @@ img.header {
   right: 5%;
 }
 
+div {
+  margin-bottom: 5rem;
+}
+
 body {
   margin: 10%;
   margin-right: 10%;
