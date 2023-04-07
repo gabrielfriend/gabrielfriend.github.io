@@ -56,6 +56,14 @@ hr {
   margin-right: 0;
 }
 
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
 img,
 video {
   height: auto;
