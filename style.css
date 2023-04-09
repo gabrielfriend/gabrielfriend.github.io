@@ -25,6 +25,7 @@ body {
   font-family: 'Noto Serif TC', serif;
   margin-top: 0;
   margin-bottom: 0;
+
 }
 
 p.title {
@@ -39,7 +40,7 @@ p.title {
 p.normal {
   font-family: 'Noto Serif TC', serif;
   font-size: 16px;
-  line-height: 2.5;
+  line-height: 43px;
   margin-top: 0;
   margin-bottom: 0;
   max-width: 28rem;
